@@ -33,7 +33,7 @@ pyasn1-modules==0.2.5
 pyasn1==0.4.5
 pycparser==2.19
 pyhamcrest==1.9.0
-pyopenssl==18.0.0
+pyopenssl==19.0.0
 pyrsistent==0.14.4
 python-mimeparse==1.6.0
 service-identity==17.0.0
