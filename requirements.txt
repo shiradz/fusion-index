@@ -26,7 +26,7 @@ idna==2.8
 incremental==17.5.0
 ipaddress==1.0.22
 linecache2==1.0.0
-pbr==4.2.0
+pbr==5.4.1
 prometheus-client==0.3.1
 py2casefold==1.0.1
 pyasn1-modules==0.2.2
