@@ -29,7 +29,7 @@ linecache2==1.0.0
 pbr==5.4.1
 prometheus-client==0.7.1
 py2casefold==1.0.1
-pyasn1-modules==0.2.2
+pyasn1-modules==0.2.5
 pyasn1==0.4.4
 pycparser==2.18
 pyhamcrest==1.9.0
