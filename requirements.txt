@@ -14,7 +14,7 @@ characteristic==14.3.0
 constantly==15.1.0
 coverage==4.5.3
 cryptography==2.7
-eliot==1.5.0
+eliot==1.10.0
 enum34==1.1.6
 epsilon==0.7.3
 extras==1.0.0
