@@ -9,7 +9,7 @@ asn1crypto==0.24.0
 attrs==19.1.0
 automat==0.7.0
 axiom==0.7.5
-cffi==1.11.5
+cffi==1.12.3
 characteristic==14.3.0
 constantly==15.1.0
 coverage==4.5.1
