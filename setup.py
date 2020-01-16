@@ -18,7 +18,7 @@ setup(
         'eliot >= 0.8.0',
         'testtools',
         'characteristic',
-        'hypothesis>=3.0.0,<4.0.0',
+        'hypothesis>=3.0.0',
         'eliot',
         'fusion_util',
         'toolz',
